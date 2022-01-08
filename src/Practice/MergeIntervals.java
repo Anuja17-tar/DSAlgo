@@ -43,6 +43,7 @@ public class MergeIntervals {
 			}
 			return intervals;
 		}
+
 	}
 
 }
